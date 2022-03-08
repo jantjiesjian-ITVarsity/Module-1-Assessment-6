@@ -1,0 +1,73 @@
+table{
+    border-collapse: collapse;
+    border-style: solid;
+    border-color:aqua;
+    
+}
+table th{
+    background-color: cadetblue;
+    color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;
+    font-weight: 800;
+
+
+}
+#menu a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;
+    font-weight:800;
+    padding-left: 5px;
+
+    
+
+}
+#menu{
+    background-image: url("background-images/darkpink2.jpg");
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 5px;
+    
+
+}
+#menu-bar{
+    background-color: #ffffff;
+    
+    
+}
+#menu-bar th{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    
+}
+#menu a:hover{
+    color: cyan;
+    
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("background-images/darkpink2.jpg");
+    color: #ffffff;
+    
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#input{
+    text-align: center;
+    
+}

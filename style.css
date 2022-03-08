@@ -1,0 +1,88 @@
+#menu a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;
+    font-weight:800;
+    padding-left: 5px;
+    
+
+}
+#menu{
+    background-image: url("background-images/darkpink2.jpg");
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 5px;
+
+    
+
+}
+#menu-bar{
+    background-color: #ffffff;
+    
+    
+}
+#menu-bar th{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("background-images/darkpink2.jpg");
+    color: #ffffff;
+    
+}
+
+h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+#menu a:hover{
+    color: cyan;
+    
+}
+h2{
+    font-size: 48px;
+    font-weight: 800;
+    font-family:'Courier New', Courier, monospace ;
+    background-image:url("background-images/multiple-game-cover2.jpg") ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    color:darkmagenta;
+    
+    text-shadow: 10px;
+    
+}
+#menu-bar{
+    background-image: url("background-images/darkpink2.jpg");
+    text-align:center ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 5px;
+
+}
+#menu-bar a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;
+    font-weight:800;
+    padding-left: 5px;
+}
+#menu-bar a:hover{
+    color: cyan;
+}
